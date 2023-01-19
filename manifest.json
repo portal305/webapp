@@ -48,7 +48,6 @@
     "gcm"
   ],
   "scope": "",
-  "orientation": "portrait",
   "display": "standalone",
   "theme_color": "#11161c",
   "background_color": "#11161c"
